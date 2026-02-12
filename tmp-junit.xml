@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\Users\Evgeniy\Desktop\manic\phpunit.xml" tests="6" assertions="18" errors="0" failures="0" skipped="0" time="12.815108">
+    <testsuite name="Functional" tests="6" assertions="18" errors="0" failures="0" skipped="0" time="12.815108">
+      <testsuite name="FunctionalFlowTest" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" tests="6" assertions="18" errors="0" failures="0" skipped="0" time="12.815108">
+        <testcase name="testAdminCreationFailsOnTooShortDuration" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="170" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="3" time="2.146560"/>
+        <testcase name="testAdminCreatesServiceSuccessfully" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="105" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="5" time="2.121826"/>
+        <testcase name="testRegularUserCannotAccessAdminCreateService" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="198" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="2" time="2.134374"/>
+        <testcase name="testAvailableSlotsReturnedForMaster" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="138" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="3" time="2.140334"/>
+        <testcase name="testCannotCreateBookingForAnotherUser" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="214" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="2" time="2.133208"/>
+        <testcase name="testUserCanCreateBookingThroughEndpoint" file="C:\Users\Evgeniy\Desktop\manic\tests\Functional\FunctionalFlowTest.php" line="72" class="FunctionalFlowTest" classname="FunctionalFlowTest" assertions="3" time="2.138806"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

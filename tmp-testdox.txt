@@ -1,0 +1,8 @@
+Functional Flow
+ [x] User can create booking through endpoint
+ [x] Admin creates service successfully
+ [x] Available slots returned for master
+ [x] Admin creation fails on too short duration
+ [x] Regular user cannot access admin create service
+ [x] Cannot create booking for another user
+
